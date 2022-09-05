@@ -1,5 +1,2 @@
-0-current_working_directory  12-file_type      1-listit         4-listmorefiles       7-movethatfile      README.md
-
-10-back                      13-symbolic_link  2-bring_me_home  5-listfilesdigitonly  8-firstdelete
-
-11-lists                     14-copy_html      3-listfiles      6-firstdirectory      9-firstdirdeletion 
+#!/bin/bash
+0-current_working_directory  1-listit  README.md
